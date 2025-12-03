@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: Melik Buğra Kara
+ * Öğrenci No: 250541110
+ */
+
+
 public class Exercise4_6_Multadd {
 
     public static double multadd(double a, double b, double c) {

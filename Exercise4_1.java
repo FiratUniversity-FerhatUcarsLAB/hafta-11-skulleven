@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: Melik Buğra Kara
+ * Öğrenci No: 250541110
+ */
+
+
 public class Exercise4_1 {
 
     public static void printAmerican(String day, int date, String month, int year) {

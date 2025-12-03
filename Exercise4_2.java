@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: Melik Buğra Kara
+ * Öğrenci No: 250541110
+ */
+
+
 public class Exercise4_2 {
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
